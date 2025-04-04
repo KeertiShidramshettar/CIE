@@ -14,6 +14,8 @@ class Father extends Grandfather {
     class Son extends Father {
         void print2() {
             System.out.println("I'm the Son");
+            System.out.println("Im a good son");
+
         }
     }
 }
